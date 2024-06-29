@@ -8,6 +8,7 @@
 <hr>_______________________________________________________________________________________________________________</hr>
 <img src="https://myreadme.vercel.app/api/embed/MaksimSazanovich?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <hr>_______________________________________________________________________________________________________________</hr>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimSazanovich&theme=high-contrast)](https://github.com/MaksimSazanovich/github-readme-activity-graph)
 
 
 <!--
