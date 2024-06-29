@@ -5,7 +5,7 @@
 <hr>_______________________________________________________________________________________________________________</hr>
 <img src="https://myreadme.vercel.app/api/embed/MaksimSazanovich?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <hr>_______________________________________________________________________________________________________________</hr>
-Profile visitors:
+## Profile visitors:
 <img src="https://profile-counter.glitch.me/{MaksimSazanovich}/count.svg" alt="MaksimSazanovich :: Visitor's Count" />
 
 <!--
