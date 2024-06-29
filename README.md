@@ -2,7 +2,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=tokyonight" alt="mystreak"/>
 <hr>_______________________________________________________________________________________________________________</hr>
 <img src="https://github-profile-trophy.vercel.app/?username=MaksimSazanovich&theme=juicyfresh&no-bg=true" />
+<hr>_______________________________________________________________________________________________________________</hr>
 <img src="https://myreadme.vercel.app/api/embed/MaksimSazanovich?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<hr>_______________________________________________________________________________________________________________</hr>
 Profile visitors:
 <img src="https://profile-counter.glitch.me/{MaksimSazanovich}/count.svg" alt="MaksimSazanovich :: Visitor's Count" />
 
