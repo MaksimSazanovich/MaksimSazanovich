@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Profile visitors:
-<img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
+<img src="https://count.kjchmc.cn/get/@:MaksimSazanovich?theme=gelbooru" />
 <hr>_______________________________________________________________________________________________________________</hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=tokyonight" alt="mystreak"/>
 <hr>_______________________________________________________________________________________________________________</hr>
@@ -15,7 +15,7 @@
 <!--
 **MaksimSazanovich/MaksimSazanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:https://github.com/MaksimSazanovich/github-readme-activity-graph
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
