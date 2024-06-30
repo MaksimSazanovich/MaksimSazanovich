@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Profile visitors:
-<img src="https://profile-counter.glitch.me/{MaksimSazanovich}/count.svg" alt="MaksimSazanovich :: Visitor's Count" />
+<img src="https://count.kjchmc.cn/get/@:RimuruDev?theme=gelbooru" />
 <hr>_______________________________________________________________________________________________________________</hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=tokyonight" alt="mystreak"/>
 <hr>_______________________________________________________________________________________________________________</hr>
