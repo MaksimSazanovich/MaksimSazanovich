@@ -1,13 +1,12 @@
 ## Hi there 👋
 ## Profile visitors:
 <img src="https://count.kjchmc.cn/get/@:MaksimSazanovich?theme=gelbooru" />
-<hr>_______________________________________________________________________________________________________________</hr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=tokyonight" alt="mystreak"/>
-<hr>_______________________________________________________________________________________________________________</hr>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=dark-smoky" alt="mystreak"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=MaksimSazanovich&theme=juicyfresh&no-bg=true" />
-<hr>_______________________________________________________________________________________________________________</hr>
+
 <img src="https://myreadme.vercel.app/api/embed/MaksimSazanovich?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<hr>_______________________________________________________________________________________________________________</hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimSazanovich&theme=high-contrast)](https://github.com/MaksimSazanovich/github-readme-activity-graph)
 
