@@ -1,9 +1,14 @@
+<p align="center">
+ 
 ## Maksim, 17 y.o. loves Unity, anime and board games
 
+</p>
 
 * * *
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=dark-smoky" alt="mystreak"/>
+</p>
 
  * * *
  
