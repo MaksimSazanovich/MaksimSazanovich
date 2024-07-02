@@ -1,15 +1,9 @@
 ## Hi there 👋
-## Profile visitors:
-<img src="https://count.kjchmc.cn/get/@:MaksimSazanovich?theme=gelbooru" />
+
 
 * * *
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=dark-smoky" alt="mystreak"/>
-
-* * *
-
-### 🏆 Github Profile Trophy 🏆
-<img src="https://github-profile-trophy.vercel.app/?username=MaksimSazanovich&theme=juicyfresh&no-bg=true" />
 
  * * *
  
