@@ -19,7 +19,7 @@
   <table>
   <tr>
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=MaksimSazanovich&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&title_color=edf5e1&icon_color=edf5e1&text_color=66fcf1&bg_color=0b0c10&border_color=c5c6c7"/></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimSazanovich&hide=html&layout=compact&hide_border=true&hide_title=true&text_color=66fcf1&bg_color=0b0c10&border_color=c5c6c7&theme=swift"/></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimSazanovich&hide=html&layout=compact&hide_border=true&hide_title=true&text_color=66fcf1&bg_color=66fcf1&border_color=66fcf1"/></td>
   </tr>   
 </table>
 </p>
@@ -27,9 +27,6 @@
 * * *
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimSazanovich&&color=66fcf1&theme=high-contrast)](https://github.com/MaksimSazanovich/github-readme-activity-graph)
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
 
 <!--
 **MaksimSazanovich/MaksimSazanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
