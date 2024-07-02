@@ -30,7 +30,8 @@
 
 * * *
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksimSazanovich&repo=RaftProtection)](https://github.com/MaksimSazanovich/RaftProtection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksimSazanovich&repo=RaftProtection&show_icons=true&title_color=edf5e1&icon_color=edf5e1&text_color=66fcf1&bg_color=0b0c10&border_color=c5c6c7"/)](https://github.com/MaksimSazanovich/RaftProtection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaksimSazanovich&repo=Unity2DTemplate&show_icons=true&title_color=edf5e1&icon_color=edf5e1&text_color=66fcf1&bg_color=0b0c10&border_color=c5c6c7"/)](https://github.com/MaksimSazanovich/Unity2DTemplate)
 
 <!--
 **MaksimSazanovich/MaksimSazanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
