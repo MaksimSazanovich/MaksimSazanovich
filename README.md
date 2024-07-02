@@ -26,7 +26,7 @@
 
 * * *
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimSazanovich&theme=high-contrast)](https://github.com/MaksimSazanovich/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimSazanovich&&color=66fcf1&theme=high-contrast)](https://github.com/MaksimSazanovich/github-readme-activity-graph)
 
 
 <!--
