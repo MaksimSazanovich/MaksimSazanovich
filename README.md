@@ -28,6 +28,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimSazanovich&&color=66fcf1&theme=high-contrast)](https://github.com/MaksimSazanovich/github-readme-activity-graph)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
 
 <!--
 **MaksimSazanovich/MaksimSazanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
