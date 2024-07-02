@@ -1,8 +1,4 @@
-<p align="center">
- 
 ## Maksim, 17 y.o. loves Unity, anime and board games
-
-</p>
 
 * * *
 
