@@ -3,7 +3,7 @@
 * * *
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimSazanovich&theme=dark-smoky" alt="mystreak"/>
+
 </p>
 
  * * *
