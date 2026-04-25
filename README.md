@@ -14,7 +14,9 @@
 </p>
 
  * * *
-
+### Profile visitors:
 ![Counter](https://github-counter-two.vercel.app/)
+
+ * * *
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimSazanovich&line=66fcf1&color=edf5e1&theme=high-contrast)](https://github.com/MaksimSazanovich/github-readme-activity-graph)
